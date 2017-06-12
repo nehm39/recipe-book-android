@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:key="settingsUpdateCategory"
+        android:title="@string/settingsUpdateCategory" >
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="settingsAutomaticUpdate"
+            android:title="@string/settingsAutomaticUpdate" />
+        <Preference
+            android:key="settingsCheckUpdate"
+            android:title="@string/settingsCheckUpdate" >
+        </Preference>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="settingsFavoriteRecipesCategory"
+        android:title="@string/settingsFavoriteRecipesCategory" >
+        <Preference
+            android:key="settingsExportToSD"
+            android:title="@string/settingsExportToSD" >
+        </Preference>
+        <Preference
+            android:key="settingsImportFromSD"
+            android:title="@string/settingsImportFromSD" >
+        </Preference>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="settingsAboutCategory"
+        android:title="@string/settingsAboutCategory" >
+        <Preference
+            android:key="settingsAbout"
+            android:title="@string/settingsAbout" >
+        </Preference>
+        <Preference
+            android:key="settingsLicense"
+            android:title="@string/settingsLicense" >
+        </Preference>
+        <Preference
+            android:key="settingsDatabaseVersion"
+            android:summary="1.0"
+            android:title="@string/settingsDatabaseVersion" >
+        </Preference>
+        <Preference
+            android:key="settingsVersion"
+            android:summary="1.0"
+            android:title="@string/settingsVersion" >
+        </Preference>
+    </PreferenceCategory>
+
+</PreferenceScreen>

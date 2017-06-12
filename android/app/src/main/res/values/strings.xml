@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Przepisy kulinarne</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Wysuń drawer</string>
+    <string name="drawer_close">Zamknij drawer</string>
+    <string name="title_activity_recipe">RecipeActivity</string>
+    <string name="shareName">Udostępnij przepis</string>
+    <string name="shareFooter">Przesłano z aplikacji \"Przepisy kulinarne\".</string>
+    <string name="favoritesAdded">Dodano do ulubionych.</string>
+    <string name="favoritesRemoved">Usunięto ulubionych</string>
+    <string name="no_recipes">Brak przepisów.</string>
+    <string name="no_favorites">Brak ulubionych przepisów.</string>
+    <string name="menuSettings">Ustawienia</string>
+    <string name="settingsUpdateCategory">Ustawienia aktualizacji</string>
+    <string name="settingsAutomaticUpdate">Aktualizuj automatycznie</string>
+    <string name="settingsCheckUpdate">Sprawdź aktualizacje</string>
+    <string name="settingsAboutCategory">Informacje</string>
+    <string name="settingsFavoriteRecipesCategory">Ulubione przepisy</string>
+    <string name="settingsAbout">O aplikacji</string>
+    <string name="settingsAboutDesc">Copyright © 2015 \n\nSzymon Gajewski \nPatryk Siwiec \nJakub Sołtysik</string>
+    <string name="settingsLicense">Licencje</string>
+    <string name="settingsLicenseAbout">cos tu bedzie</string>
+    <string name="settingsVersion">Wersja aplikacji</string>
+    <string name="settingsDatabaseVersion">Wersja bazy przepisów</string>
+    <string name="settingsExportToSD">Eksportuj</string>
+    <string name="settingsImportFromSD">Importuj</string>
+    <string name="settingsImportConfirmation">Na pewno chcesz zaimportować? Nadpisze to aktualną bazę ulubionych przepisów.</string>
+    <string name="licenseLibrary1">Universal Image Loader</string>
+    <string name="licenseLibrary1Desc">Copyright 2011-2015 Sergey Tarasevich\n\nLicensed under the Apache License, Version 2.0 (the "License");\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\n   http://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.\n</string>
+    <string name="licenseLibrary2">aFileDialog</string>
+    <string name="licenseLibrary2Desc">This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.\n\nThis library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details.\n\nYou should have received a copy of the GNU Lesser General Public License along with this library; If not, see http://www.gnu.org/licenses/.</string>
+    <string name="exportSuccessful">Wyeksportowano pomyślnie do głównego folderu na karcie SD.</string>
+    <string name="exportFailed">Wystąpił błąd podczas eksportowania. Spróbuj ponownie.</string>
+    <string name="importSuccessful">Zaimportowano pomyślnie.</string>
+    <string name="importFailed">Wystąpił błąd podczas importowania. Spróbuj ponownie.</string>
+    <string name="importFailedFileNotFound">Plik nie został znaleziony. Sprawdź czy masz swoją kopię bazy danych w głównym folderze na karcie SD.</string>
+    <string name="confirmation">Potwierdzenie</string>
+
+    <string name="new_recipes">Pobrano/zaktualizowano %s przepisów.</string>
+    <string name="no_new_recipes">Brak nowych przepisów.</string>
+
+    <string name="no_connection">Brak dostępu do internetu.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
